@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## More About Me:
 
-- 🔭 I’m currently working on [the final touches of an in-browser board game called "Secret Hitler"](https://secret-h-demo-bqsrf.ondigitalocean.app/)
+- 🔭 I’m currently working on [the final touches of an in-browser board game called "Secret Hitler"](https://secret-h-demo-v2-h65pv.ondigitalocean.app/)
 
 - 🌱 I’m currently learning **TypeScript and SQL**
 
