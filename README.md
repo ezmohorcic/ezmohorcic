@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 
 ## More About Me:
 
-- 🔭 I’m currently working on [my portfolio!](https://ezmohorcic.github.io/)You´ll find all my projects there!
+- 🔭 I’m currently working on [my portfolio!](https://ezmohorcic.github.io/) You´ll find all my projects there!
 
-- 🌱 I’m currently learning **TypeScript and SQL**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ezmohorcic](https://github.com/ezmohorcic)
+- 👨‍💻 All of my projects repositories are available at [https://github.com/ezmohorcic](https://github.com/ezmohorcic)
 
 - 📫 How to reach me **ezmohorcic@gmail.com**
 
-- ⚡ Fun fact **I've DM'd a 300+ hours campaing in DnD**
+- ⚡ Fun fact **I've DM'd a 300+ hours campaing in DnD** and still putting hour on it...
 
 ## Connect with me:
 <p align="left">
