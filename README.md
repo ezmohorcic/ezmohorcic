@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## More About Me:
 
-- 🔭 I’m currently working on [my portfolio!]You´ll find all my projects there!(https://ezmohorcic.github.io/)
+- 🔭 I’m currently working on [my portfolio!](https://ezmohorcic.github.io/)You´ll find all my projects there!
 
 - 🌱 I’m currently learning **TypeScript and SQL**
 
